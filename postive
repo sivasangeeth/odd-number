@@ -1,0 +1,15 @@
+#include<iostream>
+#include<stdio.h>
+void main()
+{
+ int n;
+ cin>>n;
+ if(n<0)
+ {
+ cout<<"negative";
+ }
+ else
+ {
+ cout<<"positive";
+ }
+ }
